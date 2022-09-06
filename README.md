@@ -1,0 +1,1 @@
+Service for interacting with products and categories
